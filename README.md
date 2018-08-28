@@ -3,3 +3,6 @@
 
 使用html5、css3
 
+在线查看地址：http://htmlpreview.github.io/?https://github.com/Missco/wxH5/blob/master/index.html
+
+查看时请打开控制台查看，更符合实际情况
